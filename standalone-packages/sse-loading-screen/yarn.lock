@@ -3168,10 +3168,10 @@ preact-emotion@^9.2.10:
     babel-plugin-emotion "^9.2.11"
     create-emotion-styled "^9.2.8"
 
-preact@^8.3.1:
-  version "8.5.3"
-  resolved "https://registry.yarnpkg.com/preact/-/preact-8.5.3.tgz#78c2a5562fcecb1fed1d0055fa4ac1e27bde17c1"
-  integrity sha512-O3kKP+1YdgqHOFsZF2a9JVdtqD+RPzCQc3rP+Ualf7V6rmRDchZ9MJbiGTT7LuyqFKZqlHSOyO/oMFmI2lVTsw==
+preact@^10.25.4:
+  version "10.26.0"
+  resolved "https://registry.yarnpkg.com/preact/-/preact-10.26.0.tgz#35526753a8fbb98138f1de90fd51022bd40ca661"
+  integrity sha512-6ugi/Mb7lyV5RA6KlnijFyDLMU253i7L0RRiObIzDoqj59KT9iTeNJbA/YGw6M7jP4vxaab0DOA8DgodTOA6EQ==
 
 private@^0.1.6, private@^0.1.8:
   version "0.1.8"
