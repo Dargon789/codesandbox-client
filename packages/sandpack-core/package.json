@@ -27,7 +27,7 @@
     "fs-extra": "^9.1.0",
     "gensync": "^1.0.0-beta.2",
     "localforage-driver-memory": "^1.0.5",
-    "lodash-es": "^4.17.21",
+    "lodash-es": "^4.17.23",
     "micromatch": "^4.0.4",
     "node-fetch": "^2.6.1",
     "p-queue": "^6.6.2",
